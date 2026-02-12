@@ -53,9 +53,7 @@ Sub-experiments-
 - Dataclass-based state tracking
 - Structured extraction using LLMs
 
-Models:
-- Llama-3.2-3B-Instruct
-- Qwen-2.5-7B-Instruct
+Models: Llama-3.2-3B-Instruct, Qwen-2.5-7B-Instruct
   
 ---
 ## FUTURE WORK
